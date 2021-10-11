@@ -34,7 +34,7 @@
 			"label": "business"
 		}
 	],
-	"links": [
+	"edges": [
 		{
 			"source": "-1",
 			"target": "158",
