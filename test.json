@@ -38,27 +38,27 @@
 		{
 			"source": "-1",
 			"target": "158",
-			"value": "1"
+			"value": 1
 		},
 		{
 			"source": "-1",
 			"target": "156",
-			"value": "1"
+			"value": 2
 		},
 		{
 			"source": "-1",
 			"target": "157",
-			"value": "1"
+			"value": 1
 		},
 		{
 			"source": "-1",
 			"target": "0",
-			"value": "1"
+			"value": 2
 		},
 		{
 			"source": "-1",
 			"target": "17466",
-			"value": "1"
+			"value": 3
 		}
 	]
 }
